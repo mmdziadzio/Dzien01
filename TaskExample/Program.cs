@@ -38,7 +38,8 @@ namespace TaskExample
             //});
 
             // anulowanie zadania
-            // koment
+            // koment 
+            // Zmiana z Gita do VS
 
 
             // dodaj token do anulowania zadania
