@@ -38,7 +38,8 @@ namespace TaskExample
             //});
 
             // anulowanie zadania
-            // koment
+            // koment 
+            // Zmiana z Gita do VS
 
             CancellationTokenSource cts = new CancellationTokenSource();
             CancellationToken token = cts.Token;
