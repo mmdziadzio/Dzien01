@@ -92,5 +92,6 @@ namespace TaskExample
             return sum / n;
         }
 
+        static void Test() { }
     }
 }
